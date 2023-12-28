@@ -1,15 +1,7 @@
-Question 2
-You need to run three commands to push local changes to the GitHub repository. What is the third command?
-
-1 point
-
-git-push
-
-
-git-remove -v
-
-
-git-commit -m
-
-
-git-add
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
